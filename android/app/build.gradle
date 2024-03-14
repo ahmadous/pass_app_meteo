@@ -24,7 +24,7 @@ if (flutterVersionName == null) {
 
 android {
     namespace "com.me.pass_app_meteo"
-    compileSdk flutter.compileSdkVersion
+    compileSdk 33
     ndkVersion flutter.ndkVersion
 
     compileOptions {
